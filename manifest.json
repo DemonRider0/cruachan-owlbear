@@ -1,0 +1,16 @@
+{
+  "name": "Cruachan — PV e PD",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "PV e PD do Tracker nos seis tokens de Cruachan, sincronizados pelo mestre.",
+  "author": "DemonRider",
+  "icon": "icon.svg",
+  "background_url": "background.html",
+  "action": {
+    "title": "Cruachan — sincronização",
+    "icon": "icon.svg",
+    "popover": "action.html",
+    "width": 360,
+    "height": 280
+  }
+}
