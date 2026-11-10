@@ -1,15 +1,15 @@
 {
   "name": "Cruachan — PV e PD",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 1,
   "description": "PV e PD do Tracker nos seis tokens de Cruachan, sincronizados pelo mestre.",
   "author": "DemonRider",
-  "icon": "icon.svg",
-  "background_url": "background.html",
+  "icon": "https://demonrider0.github.io/cruachan-owlbear/icon.svg",
+  "background_url": "https://demonrider0.github.io/cruachan-owlbear/background.html",
   "action": {
     "title": "Cruachan — sincronização",
-    "icon": "icon.svg",
-    "popover": "action.html",
+    "icon": "https://demonrider0.github.io/cruachan-owlbear/icon.svg",
+    "popover": "https://demonrider0.github.io/cruachan-owlbear/action.html",
     "width": 360,
     "height": 280
   }
