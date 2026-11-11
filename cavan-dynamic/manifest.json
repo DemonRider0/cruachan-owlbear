@@ -1,0 +1,15 @@
+{
+  "name": "Cruachan — Cavan dinâmico (candidata)",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "author": "DemonRider",
+  "description": "Composição experimental de algarismos públicos, isolada das extensões aprovadas.",
+  "icon": "https://demonrider0.github.io/cruachan-owlbear/cavan-dynamic/icon.svg",
+  "action": {
+    "title": "Cavan dinâmico — validação",
+    "icon": "https://demonrider0.github.io/cruachan-owlbear/cavan-dynamic/icon.svg",
+    "popover": "https://demonrider0.github.io/cruachan-owlbear/cavan-dynamic/validation.html",
+    "width": 420,
+    "height": 300
+  }
+}
