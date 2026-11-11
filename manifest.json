@@ -1,6 +1,6 @@
 {
   "name": "Cruachan — PV e PD",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "manifest_version": 1,
   "description": "PV e PD do Tracker nos seis tokens de Cruachan, sincronizados pelo mestre.",
   "author": "DemonRider",
