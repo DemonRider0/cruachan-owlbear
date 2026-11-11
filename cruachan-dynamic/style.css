@@ -1,0 +1,8 @@
+:root { color-scheme: dark; font: 14px/1.45 system-ui, sans-serif; color: #f5f5f5; background: #20212b; }
+body { margin: 16px; }
+h1 { font-size: 18px; margin: 0 0 12px; }
+p { white-space: pre-line; overflow-wrap: anywhere; }
+.hint { color: #c0c4d4; font-size: 12px; }
+button { padding: 9px 12px; border: 1px solid #999fbb; border-radius: 6px; color: white; background: #383e56; cursor: pointer; }
+button:hover { background: #495272; }
+button:focus-visible { outline: 2px solid white; outline-offset: 2px; }

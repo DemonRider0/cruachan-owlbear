@@ -1,0 +1,15 @@
+{
+  "name": "Cruachan dinâmico",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "author": "DemonRider",
+  "description": "PV e PD dinâmicos dos seis personagens de Cruachan.",
+  "icon": "https://demonrider0.github.io/cruachan-owlbear/cruachan-dynamic/icon.svg",
+  "action": {
+    "title": "Cruachan dinâmico",
+    "icon": "https://demonrider0.github.io/cruachan-owlbear/cruachan-dynamic/icon.svg",
+    "popover": "https://demonrider0.github.io/cruachan-owlbear/cruachan-dynamic/action.html",
+    "width": 420,
+    "height": 260
+  }
+}
